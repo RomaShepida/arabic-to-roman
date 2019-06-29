@@ -1,6 +1,6 @@
 Installation via Composer:
 
-composer require RomanShepida/arabic-to-roman
+composer require shepida/arabic-to-roman
 
 Basic usage:
 
