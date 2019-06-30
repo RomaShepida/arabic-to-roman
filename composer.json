@@ -3,6 +3,7 @@
     "description": "Converts arabic numbers to roman",
     "type": "homework",
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3"
     }
